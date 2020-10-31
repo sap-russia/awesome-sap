@@ -30,6 +30,7 @@
 - [Вакансии SAP](https://t.me/sapjobrus) - Курируемая лента вакансий в SAP в России.
 - [SAP для фрилансеров](https://t.me/sapforfreelancer) - Удобный сервис для поиска проектов и специалистов в области SAP
 - [ExRP_SAP_freelance](https://t.me/ExRP_SAP_Freelance) - Канал с вакансиями для фрилансеров от кадрового агентства EXRP
+- [SAP Jobs (СНГ)](https://t.me/SAPJobsCIS) - Канал с вакансиями и специалистами по СНГ
 
 ## Видео
 
