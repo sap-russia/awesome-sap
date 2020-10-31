@@ -33,6 +33,7 @@
 
 - [Будни SAPёра](https://www.youtube.com/channel/UCZWBJMMn4vLZc4nZiKbOD1g) - Обучающие видео по SAP и ABAP.
 - [SAP Community VRN](https://www.youtube.com/channel/UC2NBS5QpCILSkkbRvfVA6fA) - Официальный канал воронежского сообщества SAP.
+- [SAP CIS](https://www.youtube.com/user/SAPtvCIS/videos) - Официальный канал САП СНГ. Есть раздел с обучающим видео
 
 ## Подкасты
 
