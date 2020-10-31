@@ -23,17 +23,20 @@
 - [UI5](https://t.me/ui5_js) - Русскоязычное SAPUI5/OpenUI5 сообщество.
 - [SAP C4C RU](https://t.me/sap_c4c) - Группа для русскоязычных специалистов по SAP C4C.
 - [SAP Community Voronezh](https://t.me/sapcmntvrn) - Любители и профессионалы SAP Воронежа.
+- [SAP Integration (PI, Cloud, прочее)](https://t.me/sapintegration) - Cloud and on-premise SAP integration.
 
 ## Вакансии
 
 - [Вакансии SAP](https://t.me/sapjobrus) - Курируемая лента вакансий в SAP в России.
 - [SAP для фрилансеров](https://t.me/sapforfreelancer) - Удобный сервис для поиска проектов и специалистов в области SAP
+- [ExRP_SAP_freelance](https://t.me/ExRP_SAP_Freelance) - Канал с вакансиями для фрилансеров от кадрового агентства EXRP
 - [SAP Jobs (СНГ)](https://t.me/SAPJobsCIS) - Канал с вакансиями и специалистами по СНГ
 
 ## Видео
 
 - [Будни SAPёра](https://www.youtube.com/channel/UCZWBJMMn4vLZc4nZiKbOD1g) - Обучающие видео по SAP и ABAP.
 - [SAP Community VRN](https://www.youtube.com/channel/UC2NBS5QpCILSkkbRvfVA6fA) - Официальный канал воронежского сообщества SAP.
+- [SAP CIS](https://www.youtube.com/user/SAPtvCIS/videos) - Официальный канал САП СНГ. Есть раздел с обучающим видео
 
 ## Подкасты
 
