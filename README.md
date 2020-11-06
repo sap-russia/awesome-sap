@@ -24,6 +24,7 @@
 - [SAP C4C RU](https://t.me/sap_c4c) - Группа для русскоязычных специалистов по SAP C4C.
 - [SAP Community Voronezh](https://t.me/sapcmntvrn) - Любители и профессионалы SAP Воронежа.
 - [SAP Integration (PI, Cloud, прочее)](https://t.me/sapintegration) - Cloud and on-premise SAP integration.
+- [SAP ABAP Engl](https://t.me/abap_sap) - Англоязычный чат по ABAP. Периодически выкладывают обучающие курсы и видео.
 
 ## Вакансии
 
