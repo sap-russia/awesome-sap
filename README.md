@@ -20,6 +20,7 @@
 ## Чаты
 
 - [SAP ABAP](https://t.me/sapabap) - All about SAP, ABAP, BSP, Web DynPro, UI5, Fiori and etc.
+- [SAP ABAP questions](https://t.me/sap_abap_questions) - Еще одна русскоязычная группа по ABAP
 - [UI5](https://t.me/ui5_js) - Русскоязычное SAPUI5/OpenUI5 сообщество.
 - [SAP C4C RU](https://t.me/sap_c4c) - Группа для русскоязычных специалистов по SAP C4C.
 - [SAP Community Voronezh](https://t.me/sapcmntvrn) - Любители и профессионалы SAP Воронежа.
