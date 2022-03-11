@@ -28,6 +28,8 @@
 - [SAP Community Voronezh](https://t.me/sapcmntvrn) - Любители и профессионалы SAP Воронежа.
 - [SAP Integration (PI, Cloud, прочее)](https://t.me/sapintegration) - Cloud and on-premise SAP integration.
 - [SAP Basis](https://t.me/sapbasisru) - SAP Basis
+- [SAP BW](https://t.me/BW_SAP) - SAP BW
+- [SAP ML](https://t.me/sapml) - SAP ML Topics
 
 ## Вакансии
 
