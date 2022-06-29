@@ -51,4 +51,5 @@
 - [Z Namespace](https://ilyakaznacheev.github.io/z-namespace/) - Подкаст о хороших практиках в плохих местах.
 - [ПроUI5](https://proui5.ru/) - Первый русскоязычный подкаст о UI5 и фронтенд-разработке в мире SAP.
 
-## Литература
+## Литература и библиотеки
+- [ZBOBT](https://github.com/bizhuka/zbobt) - Z* версия BOBT или /BOBF/TEST_UI.
