@@ -30,6 +30,8 @@
 - [SAP Basis](https://t.me/sapbasisru) - SAP Basis
 - [SAP Basis Jobs](https://t.me/sapbasis_jobs) - Вакансии SAP Basis
 - [SAP FICO CONS CREW](https://t.me/+HNJKZs0q8W5jZjNi) - Группа для русскоязычных специалистов по SAP FICO.
+- [SAP BW](https://t.me/BW_SAP) - SAP BW
+- [SAP ML](https://t.me/sapml) - SAP ML Topics
 
 ## Вакансии
 
