@@ -27,6 +27,7 @@
 - [SAP C4C RU](https://t.me/sap_c4c) - Группа для русскоязычных специалистов по SAP C4C.
 - [SAP Community Voronezh](https://t.me/sapcmntvrn) - Любители и профессионалы SAP Воронежа.
 - [SAP Integration (PI, Cloud, прочее)](https://t.me/sapintegration) - Cloud and on-premise SAP integration.
+- [SAP Development (не ABAP)](https://t.me/sapdevelopment) - Разработки под SAP NetWeaver и облачное
 - [SAP Basis](https://t.me/sapbasisru) - SAP Basis
 - [SAP Basis Jobs](https://t.me/sapbasis_jobs) - Вакансии SAP Basis
 - [SAP FICO CONS CREW](https://t.me/+HNJKZs0q8W5jZjNi) - Группа для русскоязычных специалистов по SAP FICO.
