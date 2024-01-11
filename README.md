@@ -54,3 +54,4 @@
 
 ## Литература и библиотеки
 - [ZBOBT](https://github.com/bizhuka/zbobt) - Z* версия BOBT или /BOBF/TEST_UI.
+- [Hybris](https://github.com/eminyagiz42/awesome-hybris) - SAP Commerce (formerly Hybris) resources.
