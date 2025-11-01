@@ -18,6 +18,7 @@
 - [Будни SAPёра](https://t.me/budni_sapera) - Канал о SAP и ABAP. Обучение, новости, развитие.
 - [ABAP-Blog](https://t.me/abapblog) - Про SAP, ABAP и разработку в целом.
 - [AbapCode](https://t.me/abapcode) - Еще один канал/блог про ABAP разработку.
+- [SAP Basis Tips](https://t.me/SAP_BASIS_TIPS_RU) - Советы, практики и полезные материалы по SAP Basis.
 
 ## Чаты
 
